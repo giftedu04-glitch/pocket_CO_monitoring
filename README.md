@@ -1,4 +1,4 @@
-﻿# Pocket CO Monitor - Portable Carbon Monoxide Detector
+﻿# Pocket CO Monitor (Portable Carbon Monoxide Detector)
 
 A compact, USB/battery-powered pocket carbon monoxide (CO) detector using ESP32, MQ-7 sensor, and 0.96" OLED display.
 
