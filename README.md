@@ -2,7 +2,7 @@
 
 A compact, USB/battery-powered pocket carbon monoxide (CO) detector using ESP32, MQ-7 sensor, and 0.96" OLED display.
 
-![Circuit Diagram](IntelligentFutures STEM Education Program Flyer 2.png)
+![Circuit Diagram](circuit-diagram.png)
 
 ## Features
 - Pocket-sized CO monitoring
@@ -14,7 +14,7 @@ A compact, USB/battery-powered pocket carbon monoxide (CO) detector using ESP32,
 ## Files
 - pocket_co_monitor.ino - Arduino code
 - diagram.json - Wokwi circuit
-- pocket-co-monitor-circuit.png - Circuit diagram
+- circuit-diagram.png - Circuit diagram
 - README.md - Project documentation
 
 ## Usage
