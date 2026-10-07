@@ -21,5 +21,3 @@ A compact, USB/battery-powered pocket carbon monoxide (CO) detector using ESP32,
 1. Upload pocket_co_monitor.ino to ESP32
 2. Assemble circuit as per diagram
 3. Power on and wait ~60s for warm-up
-
-**Note:** This is for educational/demo use only, not a certified life-safety device.
