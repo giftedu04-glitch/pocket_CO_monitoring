@@ -1,1 +1,2 @@
-
+# DESIGN STAGE
+For now the design was done and it works as a simulation in fritzing.
